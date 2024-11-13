@@ -1,3 +1,4 @@
+// import needed modules
 import React from 'react';
 import { getFullYear, getFooterCopy } from '../utils';
 import './Footer.css';
