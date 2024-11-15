@@ -121,14 +121,3 @@ When running the dev server, your code should work on http://localhost:8564/.
 When running Webpack, your javascript and html files should be generated in a public folder.
 Opening your main file should not generate any error in the console.
 Repo:
-
-
-<kbd>Front-end</kbd> &middot; <kbd>JavaScript</kbd> &middot; <kbd>ES6</kbd>
-
-## Learning Objectives
-
-- How to setup Webpack for a basic project
-- Entry points, output, and loaders
-- How to add plugins
-- How to split your code into chunks
-- How to setup a dev server
