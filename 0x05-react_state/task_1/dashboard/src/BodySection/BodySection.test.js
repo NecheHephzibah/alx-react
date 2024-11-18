@@ -1,3 +1,4 @@
+// Test file for body section
 import React from 'react';
 import { shallow } from 'enzyme';
 import { StyleSheetTestUtils } from 'aphrodite';

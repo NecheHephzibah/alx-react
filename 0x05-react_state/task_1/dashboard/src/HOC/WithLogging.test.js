@@ -1,3 +1,4 @@
+// Test file for Logging Component
 import React from 'react';
 import { mount } from 'enzyme';
 import { StyleSheetTestUtils } from 'aphrodite';

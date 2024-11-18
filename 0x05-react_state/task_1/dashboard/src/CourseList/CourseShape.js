@@ -1,3 +1,4 @@
+// Prop type ourse shape
 import PropTypes from 'prop-types';
 
 const CourseShape = PropTypes.shape({

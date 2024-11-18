@@ -1,3 +1,4 @@
+// React App Construct
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import Notifications from '../Notifications/Notifications';

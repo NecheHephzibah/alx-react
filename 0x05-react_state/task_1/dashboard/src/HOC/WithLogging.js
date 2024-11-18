@@ -1,3 +1,4 @@
+// Component for Logging
 import React from 'react';
 
 const WithLogging = (WrappedComponent) => {

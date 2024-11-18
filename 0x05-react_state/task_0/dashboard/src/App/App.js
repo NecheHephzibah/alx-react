@@ -1,4 +1,4 @@
-// App.js construct with class
+// App.js configuration with class
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import Notifications from '../Notifications/Notifications';
