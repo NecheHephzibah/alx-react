@@ -1,3 +1,4 @@
+// Js componnt for body section
 import React, { Component } from 'react';
 import { StyleSheet, css } from 'aphrodite';
 import PropTypes from 'prop-types';

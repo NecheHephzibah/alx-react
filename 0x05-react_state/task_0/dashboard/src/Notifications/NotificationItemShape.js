@@ -1,3 +1,4 @@
+// Prop type
 import PropTypes from 'prop-types';
 
 const NotificationItemShape = PropTypes.shape({

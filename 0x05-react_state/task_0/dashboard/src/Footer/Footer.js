@@ -1,3 +1,4 @@
+// Footer component
 import React from 'react';
 import { getFullYear, getFooterCopy } from '../utils';
 
