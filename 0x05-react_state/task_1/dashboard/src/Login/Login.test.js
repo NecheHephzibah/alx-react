@@ -1,3 +1,4 @@
+// Test file for Login Component
 import React from 'react';
 import { shallow } from 'enzyme';
 import { StyleSheetTestUtils } from 'aphrodite';

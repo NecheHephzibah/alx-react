@@ -1,3 +1,4 @@
+// test file for Notification component
 import React from 'react';
 import { shallow, mount } from 'enzyme';
 import { StyleSheetTestUtils } from 'aphrodite';
