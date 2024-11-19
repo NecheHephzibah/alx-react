@@ -1,1 +1,2 @@
+// Mock file
 module.exports = {};

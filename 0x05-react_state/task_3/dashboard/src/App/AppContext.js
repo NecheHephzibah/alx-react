@@ -1,3 +1,4 @@
+// App Component holding login details
 import React from 'react';
 
 // Default user object

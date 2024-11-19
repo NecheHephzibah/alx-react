@@ -1,3 +1,4 @@
+// Header Component
 import React, { Component } from 'react';
 import { StyleSheet, css } from 'aphrodite';
 import { AppContext } from '../App/AppContext';
