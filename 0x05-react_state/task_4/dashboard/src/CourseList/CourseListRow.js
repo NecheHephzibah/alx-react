@@ -1,3 +1,4 @@
+// Component for Course list row
 import React, { useState } from 'react';
 import PropTypes from 'prop-types';
 import { StyleSheet, css } from 'aphrodite';

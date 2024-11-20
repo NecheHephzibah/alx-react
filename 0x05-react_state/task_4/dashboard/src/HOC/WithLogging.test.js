@@ -1,3 +1,4 @@
+// Test file
 import React from 'react';
 import { mount } from 'enzyme';
 import { StyleSheetTestUtils } from 'aphrodite';

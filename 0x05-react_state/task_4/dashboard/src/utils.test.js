@@ -1,3 +1,4 @@
+// Test file for utils
 import { getFullYear, getFooterCopy, getLatestNotification } from './utils';
 
 describe('getFullYear function', () => {

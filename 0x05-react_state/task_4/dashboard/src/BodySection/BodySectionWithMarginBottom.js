@@ -1,3 +1,4 @@
+// Component for Body section with margin bottom
 import React, { Component } from 'react';
 import { StyleSheet, css } from 'aphrodite';
 import PropTypes from 'prop-types';

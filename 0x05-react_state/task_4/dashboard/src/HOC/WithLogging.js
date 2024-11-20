@@ -1,3 +1,4 @@
+// WithLoggin Component
 import React from 'react';
 
 const WithLogging = (WrappedComponent) => {

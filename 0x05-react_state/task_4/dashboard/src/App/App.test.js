@@ -1,3 +1,4 @@
+// Test file for app.js
 import React from 'react';
 import { StyleSheetTestUtils } from 'aphrodite';
 import { shallow } from 'enzyme';

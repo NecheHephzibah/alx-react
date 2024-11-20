@@ -1,3 +1,4 @@
+// AppContext
 import React from 'react';
 
 // Default user object

@@ -1,3 +1,4 @@
+// Footer Component
 import React, { useContext } from 'react';
 import { AppContext } from '../App/AppContext';
 import { getFullYear, getFooterCopy } from '../utils';

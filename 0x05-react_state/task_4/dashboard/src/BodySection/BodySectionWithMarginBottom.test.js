@@ -1,3 +1,4 @@
+// Test file for Body section with Margin bottom 
 import React from 'react';
 import { shallow } from 'enzyme';
 import { StyleSheetTestUtils } from 'aphrodite';
